@@ -1,0 +1,41 @@
+8
+
+dir
+1
+svn://127.0.0.1/Generador_de_licencias/log
+svn://127.0.0.1/Generador_de_licencias
+
+
+
+2006-11-15T17:44:43.993806Z
+1
+oscar
+
+
+svn:special svn:externals svn:needs-lock
+
+Identificador.java
+file
+
+
+
+
+2006-02-10T10:26:38.843120Z
+042d6d721dbb6495a839b6bac78dcb06
+2006-11-15T17:44:43.993806Z
+1
+oscar
+
+Identificador.class
+file
+
+
+
+
+2006-04-24T08:53:02.962222Z
+f5dfb487ad39fa1696899a28d0be477c
+2006-11-15T17:44:43.993806Z
+1
+oscar
+has-props
+

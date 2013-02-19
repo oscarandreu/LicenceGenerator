@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jan 26 14:30:42 CET 2006
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=generadorLlaves_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Gui
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|generadorLlaves>~.settings/;<po|generadorLlaves>~log/~Identificador.java;<po|generadorLlaves>~rsa/~Generador.java;<po|generadorLlaves>~.classpath;<po|generadorLlaves>~.fatjar;<po|generadorLlaves>~.project;<po|generadorLlaves>~generadorLlaves_fat.jar;<po|generadorLlaves>~Gui.java;<po|generadorLlaves>~licencia.lic;<po|generadorLlaves>~priKey.obj;<po|generadorLlaves>~pubKey.obj;<po|generadorLlaves>~serial.obj
+includes=
